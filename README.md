@@ -1,4 +1,4 @@
-### Hi, I'm Peter: geospatial data engineer in Exeter, UK
+### Hi, I'm Peter: geospatial data engineer in London, UK
 
 I build data pipelines that turn open geospatial and demographic data into reliable, documented
 datasets and maps: from LiDAR and Sentinel-2 to census, postcode and network data, on Databricks,
